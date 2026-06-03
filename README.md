@@ -15,7 +15,7 @@ Built as a learning project, with plans to add more features over time.
 ## How to install and run
 
 ### 1. Clone the repository
-git clone https://github.com/facundo-deev/fastshop.git
+git clone https://github.com/facundo-deev/fastshop-api
 
 ### 2. Install dependencies
 pip install fastapi uvicorn psycopg2-binary python-dotenv
